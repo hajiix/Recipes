@@ -1,0 +1,35 @@
+a {
+  color: #ffcdbc;
+
+}
+
+a:hover {
+  color: #ffcdbc; 
+}
+
+body {
+  background-color: #130303;
+  text-align: center;
+  list-style-position: inside;
+}
+
+h1.header {
+  color: #f5853f;
+  font-family: fantasy;
+}
+
+.header {
+  color: #130303;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p,li {
+  color: #ffcdbc;
+}
+
+.slidetwo {
+  background-color: #7e2b12;
+}
+a:hover {
+  color: #e97751; 
+}
